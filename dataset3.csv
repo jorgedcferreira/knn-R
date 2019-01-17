@@ -1,0 +1,9 @@
+age,state,Height,credito
+10,A,1.2,bale
+15,A,1.4,nbale
+20,B,1.8,bale
+25,B,1.7,nbale
+15,"NA",1.5,bale
+10,"NA","NA",nbale
+20,B,1.9,bale
+45,B,1.7,nbale
