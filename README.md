@@ -1,5 +1,5 @@
 # knn_r
-knn made from scratch on r
+knn made from scratch with R
 
 This project concerns a K-Nearest Neighbors model built as a class in R where several procedures can be employed “off the shelve”, without requiring any further work from the end user other than providing a training dataset and the dataset upon which he desires to predict the outcome.
 Therefore, and in summary, to enable this degree of simplicity, the following methods have been implemented within this class and are used either to enable better results of the model and/or to improve the quality of the training set. Some methods have also some functions of their own that will also be explain within each segment.
